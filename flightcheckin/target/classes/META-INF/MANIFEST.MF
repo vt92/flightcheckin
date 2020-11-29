@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: flightcheckin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo
+Implementation-Vendor-Id: com.hr.flightcheckin
+Build-Jdk: 1.8.0_271
+Implementation-URL: https://spring.io/projects/spring-boot/flightcheck
+ in
+Created-By: Maven Integration for Eclipse
+
